@@ -1,4 +1,4 @@
-# Phoenix Biodiversity Change Assessment 
+# Assessing Biodiversity Loss in Phoenix, Arizona 
 Analysis of biodiversity change within the Phoenix, AZ Census Subdivision utilizing the Biodiversity Intactness Index (BII)
 
 
